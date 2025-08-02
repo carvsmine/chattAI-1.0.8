@@ -1,2 +1,3 @@
-# chattAI-1.0.8
+# ChattAI
 
+App con AI, stanze, inviti e gestione utenti.

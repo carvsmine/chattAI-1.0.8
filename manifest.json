@@ -1,0 +1,9 @@
+{
+        "name": "ChattAI",
+        "short_name": "ChattAI",
+        "start_url": ".",
+        "display": "standalone",
+        "background_color": "#ffffff",
+        "description": "Chat intelligente con IA, stanze e inviti",
+        "icons": [{ "src": "/icon.png", "type": "image/png", "sizes": "512x512" }]
+    }
